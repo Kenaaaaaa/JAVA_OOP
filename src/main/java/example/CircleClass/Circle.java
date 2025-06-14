@@ -41,4 +41,12 @@ public class Circle extends Shape{
     public double getArea(){
         return Math.PI * radius * radius;
     }
+    // Method to calculate perimeter
+    public double getPerimeter(){
+        return 2 * Math.PI * radius;
+    }
+    @Override
+    public String toString() {
+        return "Circle with radius=" + radius + " which is a subclass of " + super.toString();
+    }
 }
