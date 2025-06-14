@@ -1,4 +1,4 @@
-package example;
+package example.Person;
 /*Person class
 Implement the  Person  abstract class.
  It should contain:

@@ -1,4 +1,4 @@
-package example;
+package example.Person;
 /*Implement the  Student  class. It should extend the  Person  class.
 Implementation should meet the below criteria:
 three elds: type of study, year of study, study price

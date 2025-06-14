@@ -1,4 +1,5 @@
-package example;
+package example.Person;
+
 /*Staff class
 Implement the  Lecturer  class. It should extend the  Person  class.
 Implementation should meet the below criteria:
@@ -9,7 +10,7 @@ setter  methods which will be responsible for setting declared elds
 toString  method which should return detials information about a lecturer
 Please provide an example usage of above implementation.
 */
-public class Staff  extends Person{
+public class Staff  extends Person {
     private String specialization;
     private int salary;
 
