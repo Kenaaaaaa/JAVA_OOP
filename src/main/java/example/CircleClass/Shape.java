@@ -46,4 +46,9 @@ public class Shape {
     public String toString() {
         return "Shape with color of " + color + " and " + (filled ? "filled" : "not filled");
     }
+    // Additional methods can be added here if needed
+    // This class can be extended by other shapes like Circle, Rectangle, etc.
+    // For example, Circle class can extend this Shape class
+
+
 }
