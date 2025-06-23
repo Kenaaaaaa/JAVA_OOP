@@ -1,4 +1,4 @@
-Trashegimia eshte nje koncept objective
+1. Trashegimia eshte nje koncept objective
 
 Single Hierarchy
 A->B
@@ -25,7 +25,7 @@ Perdorim trashegimi per te riperdorur kodin, per te krijuar nje klase baze dhe t
 
 
 ----------
-ABASTRAKSIONI I KLASES
+2. ABASTRAKSIONI I KLASES
 ABSTRACT CLASS
 ABSTRAKSIONI I KLASES, TE FSHEHIM IMPLEMENTIMIN TE PERDORUESI
 Abastraksioni realizohet me asbastract class dhe interface
@@ -35,7 +35,7 @@ Abstraksioni perdoret dhe arrihet 100% ne abstract class vetem me interface
 Interface: Deklarohet me keyword interface, nuk ka implementim, vetem deklarata, dhe nuk mund te kete variabla, por mund te kete konstante
 Interface perdoret si kontrate, dhe i perdor tek te gjitha klasat e tjera
 -----------------
-Polimorfizmi
+3. Polimorfizmi
 Poli -for ( nje objekt merr shume forma)
 Overloading Methods vs. Overriding Methods
 Overloading Methods: Lidhet me polimorfizmin, metoda me te njejtin emer, por me parametra te ndryshme, dhe mund te kete implementim te ndryshme
@@ -50,7 +50,7 @@ Overriding(metoda me emer te njejte, parametra te njejte, por body te ndryshem)
 
 
 _------
-Encapsulation
+4.Encapsulation
 Enkapsulimi i te dhenave, fshehja e implementimit, dhe ekspozimi i vetem i asaj qe duhet te shikohet nga perdoruesi
 Arrihet duke perdorur keyword private, getters dhe setters
 
@@ -62,3 +62,6 @@ Me parametra
 Pa parametra
 ------------------
 
+
+EXCEPTIONS HANDLING
+Exceptions handling eshte nje mekanizem qe lejon programin te trajtoje gabimet ne kohe ekzekutimi.
